@@ -77,6 +77,8 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 - CR Worldwide acquired by 360insights in 2020. [^acquisition]
 - Lead engineer of an agile development team, delivering cloud-native solutions.
 - Mentored team members, fostering technical growth and collaboration.
+- Automated deployment processes using CI/CD pipelines.
+- Designed and implemented scalable, event-driven architectures using AWS services.
 
 ### **Corporate Rewards / CR Worldwide** | Software Engineer | _2016 - 2020[^acquisition]_
 - Received multiple internal accolades, including *Innovator of the Year 2018*.
