@@ -96,8 +96,8 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 
 ## 📫 Contact
 
-- **Email:** [alexander.bednorz@live.co.uk](mailto:alexander.bednorz@live.co.uk)
-- **GitHub:** [https://github.com/cr-abednorz](https://github.com/cr-abednorz)
-- **LinkedIn:** [https://www.linkedin.com/in/alexander-august-bednorz/](https://www.linkedin.com/in/alexander-august-bednorz/)
+#### **Email:** [alexander.bednorz@live.co.uk](mailto:alexander.bednorz@live.co.uk)
+#### **GitHub:** [https://github.com/cr-abednorz](https://github.com/cr-abednorz)
+#### **LinkedIn:** [https://www.linkedin.com/in/alexander-august-bednorz/](https://www.linkedin.com/in/alexander-august-bednorz/)
 
 [^acquisition]: 360insights Announces Acquisition of CR Worldwide [[link]](https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/360insights-announces-acquisition-of-cr-worldwide)
