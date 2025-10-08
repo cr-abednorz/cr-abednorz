@@ -15,7 +15,7 @@
 - **Systems:** Linux, POSIX, sFTP, SMTP, SSH administration
 - **Version Control:** Git, SVN
 - **CI/CD:** GitHub Actions, Jira
-- **IaC:**
+- **IaC:** AWS CloudFormation, Serverless Application Model (SAM)
 - **Monitoring & Observability:**
 - **Automation:**
 
