@@ -79,8 +79,14 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 - Mentored team members, fostering technical growth and collaboration.
 
 ### **Corporate Rewards / CR Worldwide** | Software Engineer | _2016 - 2020[^acquisition]_
+- Received multiple internal accolades, including *Innovator of the Year 2018*.
 - Built plugins for bespoke MediaWiki documentation platform.
 - Developed internal tools for data processing and reporting.
+- Led the design, development, and deployment of microservice-based systems supporting cross-platform integrations.
+- Built and maintained modular services in Python, JavaScript, for custom business logic via RESTful APIs.
+- Deployed and optimised these services on AWS, improving scalability, maintainability, and performance.
+- Collaborated with cross-functional teams to modernise application architecture and streamline development workflows.
+- Delivered measurable improvements in operational efficiency and user experience through cloud-native solutions.
 
 ### **Volo Commerce** | Technical Analyst | _2013 - 2016_
 - B2B technical support and platform maintenance.
