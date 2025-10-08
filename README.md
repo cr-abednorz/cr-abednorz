@@ -17,7 +17,7 @@
 - **CI/CD:** GitHub Actions, Jira
 - **IaC:** AWS CloudFormation, Serverless Application Model (SAM)
 - **Monitoring & Observability:** CloudWatch, DataDog, Grafana, New Relic, Insights Dashboards
-- **Automation:**
+- **Automation:** Serverless deployments, CI/CD pipelines, IaC workflows, GitHub Actions, Swagger/OpenAPI
 
 ---
 
