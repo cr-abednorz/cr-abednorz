@@ -110,6 +110,7 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 ## 📫 Contact
 
 #### **Email:** [alexander.bednorz@live.co.uk](mailto:alexander.bednorz@live.co.uk)
+#### **PGP Key:** [rsa4096/0x4367FFC2AD1FAB70](https://keyserver.ubuntu.com/pks/lookup?op=index&search=0x4367FFC2AD1FAB70)
 #### **GitHub:** [https://github.com/cr-abednorz](https://github.com/cr-abednorz)
 #### **LinkedIn:** [https://www.linkedin.com/in/alexander-august-bednorz/](https://www.linkedin.com/in/alexander-august-bednorz/)
 
