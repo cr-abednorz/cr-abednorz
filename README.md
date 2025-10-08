@@ -8,7 +8,7 @@
 ## 🧠 Core Competencies
 
 - **Languages:** Python, JavaScript, Perl, Bash, Lua, PHP, Ruby
-- **Frontend:**
+- **Frontend:** HTML, CSS, Bootstrap, jQuery responsive UI integration
 - **Backend:**
 - **Frameworks:**
 - **Databases:**
