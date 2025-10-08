@@ -9,6 +9,8 @@ I design and build scalable, secure, and event-driven web systems. \
 My work blends deep AWS cloud automation with pragmatic full-stack engineering. \
 Senior Software Engineer with 5+ years of experience in building scalable, event-driven web systems for e-Commerce, Incentives & Recognition, Channel Success and Marketing platforms.
 
+I specialise in AWS cloud automation, serverless architecture, and full-stack development, with a focus on mentoring teams and leading cross-functional projects.
+
 ---
 
 ## 🧠 Core Competencies
