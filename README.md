@@ -26,7 +26,7 @@
 - **Compute:** Lambda, EKS, ECS, Fargate, Docker
 - **Infrastructure:** CloudFormation, Template Transformer Macros
 - **Messaging:** SNS, SQS
-- **Security:**
+- **Security:** IAM policy design and least-privilege management
 - **APIs:**
 - **Monitoring:**
 - **Storage:**
