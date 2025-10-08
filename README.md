@@ -27,7 +27,7 @@
 - **Infrastructure:** CloudFormation, Template Transformer Macros
 - **Messaging:** SNS, SQS
 - **Security:** IAM policy design and least-privilege management
-- **APIs:**
+- **APIs:** API Gateway, RESTful API design and implementation
 - **Monitoring:**
 - **Storage:**
 
