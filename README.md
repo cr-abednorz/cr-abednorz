@@ -65,6 +65,10 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 - **CR Worldwide acquired by 360insights in 2020. [^acquisition]
 
 **Corporate Rewards / CR Worldwide** - Software Engineer | 2016 - 2020[^acquisition]
+- Built plugins for bespoke MediaWiki documentation platform.
+- Developed internal tools for data processing and reporting.
+- Automated deployment processes using CI/CD pipelines.
+- Received multiple internal accolades, including *Innovator of the Year 2018*.
 
 **Volo Commerce** - Technical Analyst | 2013 - 2016
 - B2B technical support and platform maintenance.
