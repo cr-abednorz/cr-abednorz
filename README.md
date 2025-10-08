@@ -27,6 +27,11 @@
 
 ## 💼 Experience
 
+**360insights** – Senior Software Engineer | 2020 – Present
+
+**Corporate Rewards / CR Worldwide** – Software Engineer | 2016 – 2020
+
+**Volo Commerce** – Technical Analyst | 2013 – 2016
 
 ---
 
