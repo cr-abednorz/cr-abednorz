@@ -1,3 +1,16 @@
+---
+title: Alex Bednorz
+location: West Midlands, UK
+role: Full Stack Web Engineer | Cloud & Serverless Architect
+tags:
+  - 🐍 Python
+  - 🟨 JavaScript
+  - 🐪 Perl
+  - ☁️ AWS
+  - 🧪 BDD
+  - 🧩 API Design
+---
+
 # 👋 Hi, I'm Alex Bednorz
 
 [ _West Midlands, UK_ ] \
