@@ -5,3 +5,35 @@
 
 ---
 
+## 🧠 Core Competencies
+
+
+---
+
+## ☁️ AWS Expertise
+
+
+---
+
+## 🧩 Development Practices
+
+
+---
+
+## 🎯 Focus Areas
+
+
+---
+
+## 💼 Experience
+
+
+---
+
+## 🎓 Education
+
+
+---
+
+## 📫 Contact
+
