@@ -1,4 +1,10 @@
 {
     "enabled": true,
-    "language": "en-GB"
+    "language": "en-GB",
+    "minWordLength": 3,
+    "dictionaries": [
+        "companies",
+        "filetypes",
+        "softwareTerms"
+    ]
 }
