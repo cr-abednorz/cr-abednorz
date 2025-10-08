@@ -24,7 +24,7 @@
 ## ☁️ AWS Expertise
 
 - **Compute:** Lambda, EKS, ECS, Fargate, Docker
-- **Infrastructure:**
+- **Infrastructure:** CloudFormation, Template Transformer Macros
 - **Messaging:**
 - **Security:**
 - **APIs:**
