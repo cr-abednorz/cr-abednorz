@@ -24,7 +24,7 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 - **Databases:** NoSQL, MySQL, PostgreSQL, RDBMS design and tuning
 - **Systems:** Linux, POSIX, sFTP, SMTP, SSH administration
 - **Version Control:** Git, SVN
-- **CI/CD:** GitHub Actions, Jira
+- **CI/CD:** GitHub Actions
 - **IaC:** AWS CloudFormation, Serverless Application Model (SAM)
 - **Monitoring & Observability:** CloudWatch, DataDog, Grafana, New Relic, Insights Dashboards
 - **Automation:** Serverless deployments, CI/CD pipelines, IaC workflows, Swagger/OpenAPI
