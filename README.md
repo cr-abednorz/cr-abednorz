@@ -12,7 +12,7 @@
 - **Backend:** RESTful APIs, Serverless Functions, Event-Driven Architecture, Microservices
 - **Frameworks:** Flask, FastAPI, Ruby on Rails
 - **Databases:** NoSQL, MySQL, PostgreSQL, RDBMS design and tuning
-- **Systems:**
+- **Systems:** Linux, POSIX, sFTP, SMTP, SSH administration
 - **Version Control:**
 - **CI/CD:**
 - **IaC:**
