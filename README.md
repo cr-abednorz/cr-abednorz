@@ -5,6 +5,11 @@
 
 ---
 
+I design and build scalable, secure, and event-driven web systems. \
+My work blends deep AWS cloud automation with pragmatic full-stack engineering.
+
+---
+
 ## 🧠 Core Competencies
 
 - **Languages:** Python, JavaScript, Perl, Bash, Lua, PHP, Ruby
