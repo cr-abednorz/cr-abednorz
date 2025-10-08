@@ -85,6 +85,11 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 ### **Volo Commerce** | Technical Analyst | _2013 - 2016_
 - B2B technical support and platform maintenance.
 - Analytics and reporting for e-Commerce clients.
+- Supported and maintained Volo Commerce's proprietary eCommerce platform *eSellerPro*, integrating stock management, order processing, accounting, and multichannel sales (eBay, Amazon, Rakuten, web shops).
+- Provided technical support and issue resolution for a large client base, including troubleshooting integrations and coordinating with internal teams.
+- Developed expertise in third-party accounting integrations (Sage 50, QuickBooks, Exchequer).
+- Identified and documented recurring client issues to drive process improvements and enhance system stability.
+- Contributed to departmental workflow optimisation through feedback and operational insight.
 
 ---
 
