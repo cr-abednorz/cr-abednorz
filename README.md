@@ -37,3 +37,4 @@
 
 ## 📫 Contact
 
+- **Email:** [alexander.bednorz@live.co.uk](mailto:alexander.bednorz@live.co.uk)
