@@ -23,6 +23,13 @@
 
 ## ☁️ AWS Expertise
 
+- **Compute:**
+- **Infrastructure:**
+- **Messaging:**
+- **Security:**
+- **APIs:**
+- **Monitoring:**
+- **Storage:**
 
 ---
 
