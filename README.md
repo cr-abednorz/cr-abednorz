@@ -27,7 +27,7 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 - **CI/CD:** GitHub Actions, Jira
 - **IaC:** AWS CloudFormation, Serverless Application Model (SAM)
 - **Monitoring & Observability:** CloudWatch, DataDog, Grafana, New Relic, Insights Dashboards
-- **Automation:** Serverless deployments, CI/CD pipelines, IaC workflows, GitHub Actions, Swagger/OpenAPI
+- **Automation:** Serverless deployments, CI/CD pipelines, IaC workflows, Swagger/OpenAPI
 
 ---
 
