@@ -23,7 +23,7 @@
 
 ## ☁️ AWS Expertise
 
-- **Compute:**
+- **Compute:** Lambda, EKS, ECS, Fargate, Docker
 - **Infrastructure:**
 - **Messaging:**
 - **Security:**
