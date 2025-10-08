@@ -7,7 +7,7 @@
 
 ## 🧠 Core Competencies
 
-- **Languages:**
+- **Languages:** Python, JavaScript, Perl, Bash, Lua, PHP, Ruby
 - **Frontend:**
 - **Backend:**
 - **Frameworks:**
