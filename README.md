@@ -35,6 +35,10 @@
 
 ## 🧩 Development Practices
 
+- Behaviour-Driven Development (BDD) with Cucumber / Gherkin
+- Event-driven and modular architecture design
+- Testable, observable systems
+- Project lead on data suite engineering
 
 ---
 
