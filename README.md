@@ -32,6 +32,7 @@
 
 ## 🎓 Education
 
+- **Computer Science National Certificate** | 2012
 
 ---
 
