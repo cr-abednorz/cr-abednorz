@@ -3,8 +3,17 @@
     "language": "en-GB",
     "minWordLength": 3,
     "dictionaries": [
+        "@internal_words",
         "companies",
         "filetypes",
         "softwareTerms"
+    ],
+    "dictionaryDefinitions": [
+        {
+            "name": "@internal_words",
+            "path": ".cspell/internal_words.txt",
+            "description": "Dictionary of words used internally on this project",
+            "addWords": true
+        }
     ]
 }
