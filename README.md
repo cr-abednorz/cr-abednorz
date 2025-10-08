@@ -29,7 +29,7 @@
 - **Security:** IAM policy design and least-privilege management
 - **APIs:** API Gateway, RESTful API design and implementation
 - **Monitoring:** CloudWatch, X-Ray, structured logging
-- **Storage:**
+- **Storage:** S3, RDS, DynamoDB
 
 ---
 
