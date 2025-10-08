@@ -10,7 +10,7 @@
 - **Languages:** Python, JavaScript, Perl, Bash, Lua, PHP, Ruby
 - **Frontend:** HTML, CSS, Bootstrap, jQuery responsive UI integration
 - **Backend:** RESTful APIs, Serverless Functions, Event-Driven Architecture, Microservices
-- **Frameworks:**
+- **Frameworks:** Flask, FastAPI, Ruby on Rails
 - **Databases:**
 - **Systems:**
 - **Version Control:**
