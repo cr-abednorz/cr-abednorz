@@ -27,12 +27,12 @@
 
 ## 💼 Experience
 
-**360insights** – Senior Software Engineer | 2020[^acquisition] – Present
+**360insights** - Senior Software Engineer | 2020[^acquisition] - Present
 - **CR Worldwide acquired by 360insights in 2020. [^acquisition]
 
-**Corporate Rewards / CR Worldwide** – Software Engineer | 2016 – 2020[^acquisition]
+**Corporate Rewards / CR Worldwide** - Software Engineer | 2016 - 2020[^acquisition]
 
-**Volo Commerce** – Technical Analyst | 2013 – 2016
+**Volo Commerce** - Technical Analyst | 2013 - 2016
 
 ---
 
