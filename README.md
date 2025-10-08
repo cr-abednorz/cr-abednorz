@@ -44,6 +44,10 @@
 
 ## 🎯 Focus Areas
 
+- Cloud-native refactoring of legacy systems
+- Secure API integration and orchestration
+- Automated infrastructure provisioning
+- Distributed messaging and data pipelines
 
 ---
 
