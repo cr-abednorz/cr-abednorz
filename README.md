@@ -11,7 +11,7 @@
 - **Frontend:** HTML, CSS, Bootstrap, jQuery responsive UI integration
 - **Backend:** RESTful APIs, Serverless Functions, Event-Driven Architecture, Microservices
 - **Frameworks:** Flask, FastAPI, Ruby on Rails
-- **Databases:**
+- **Databases:** NoSQL, MySQL, PostgreSQL, RDBMS design and tuning
 - **Systems:**
 - **Version Control:**
 - **CI/CD:**
