@@ -67,6 +67,8 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 **Corporate Rewards / CR Worldwide** - Software Engineer | 2016 - 2020[^acquisition]
 
 **Volo Commerce** - Technical Analyst | 2013 - 2016
+- B2B technical support and platform maintenance.
+- Analytics and reporting for e-Commerce clients.
 
 ---
 
