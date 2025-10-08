@@ -28,7 +28,7 @@
 - **Messaging:** SNS, SQS
 - **Security:** IAM policy design and least-privilege management
 - **APIs:** API Gateway, RESTful API design and implementation
-- **Monitoring:**
+- **Monitoring:** CloudWatch, X-Ray, structured logging
 - **Storage:**
 
 ---
