@@ -13,8 +13,8 @@
 - **Frameworks:** Flask, FastAPI, Ruby on Rails
 - **Databases:** NoSQL, MySQL, PostgreSQL, RDBMS design and tuning
 - **Systems:** Linux, POSIX, sFTP, SMTP, SSH administration
-- **Version Control:**
-- **CI/CD:**
+- **Version Control:** Git, SVN
+- **CI/CD:** GitHub Actions, Jira
 - **IaC:**
 - **Monitoring & Observability:**
 - **Automation:**
