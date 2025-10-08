@@ -38,3 +38,4 @@
 ## 📫 Contact
 
 - **Email:** [alexander.bednorz@live.co.uk](mailto:alexander.bednorz@live.co.uk)
+- **LinkedIn:** [https://www.linkedin.com/in/alexander-august-bednorz/](https://www.linkedin.com/in/alexander-august-bednorz/)
