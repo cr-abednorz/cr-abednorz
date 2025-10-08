@@ -7,6 +7,17 @@
 
 ## 🧠 Core Competencies
 
+- **Languages:**
+- **Frontend:**
+- **Backend:**
+- **Frameworks:**
+- **Databases:**
+- **Systems:**
+- **Version Control:**
+- **CI/CD:**
+- **IaC:**
+- **Monitoring & Observability:**
+- **Automation:**
 
 ---
 
