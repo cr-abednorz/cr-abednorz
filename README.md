@@ -63,6 +63,8 @@ I specialise in AWS cloud automation, serverless architecture, and full-stack de
 
 **360insights** - Senior Software Engineer | 2020[^acquisition] - Present
 - **CR Worldwide acquired by 360insights in 2020. [^acquisition]
+- Lead engineer of an agile development team, delivering cloud-native solutions.
+- Mentored team members, fostering technical growth and collaboration.
 
 **Corporate Rewards / CR Worldwide** - Software Engineer | 2016 - 2020[^acquisition]
 - Built plugins for bespoke MediaWiki documentation platform.
