@@ -25,7 +25,7 @@
 
 - **Compute:** Lambda, EKS, ECS, Fargate, Docker
 - **Infrastructure:** CloudFormation, Template Transformer Macros
-- **Messaging:**
+- **Messaging:** SNS, SQS
 - **Security:**
 - **APIs:**
 - **Monitoring:**
