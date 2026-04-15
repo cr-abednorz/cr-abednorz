@@ -1,13 +1,33 @@
+# Release v1.1.0
+
+- Update PGP public key with new UID
+- Enhance README with updated PGP information and experience details
+
+Full Changelog: https://github.com/cr-abednorz/cr-abednorz/compare/v1.0.0...v1.1.0
+
+🔬 Compare: [3f0fa0e..9774ed1](https://github.com/cr-abednorz/cr-abednorz/compare/3f0fa0e2afc6b0789362d4d5cb86c32ab8e20020..9774ed1291f19741f42cd879b310257c47b9687e)
+
+<details>
+<summary id='change-log'>Change Log</summary>
+
+(303c14390133519ff304dcab4715c385505145e2) [2026-04-15T12:36:03+0100] config: 🔧 update PGP public key with new UID
+
+(9774ed1291f19741f42cd879b310257c47b9687e) [2026-04-15T12:41:27+0100] docs: ✏️ update readme pgp link and experience
+
+</details>
+
+---
+
 # Release v1.0.0
 
 - Initial release detailed experience Résumé
 
 Full Changelog: https://github.com/cr-abednorz/cr-abednorz/compare/v0.0.1...v1.0.0
 
+🔬 Compare: [58b2baf..f98e573](https://github.com/cr-abednorz/cr-abednorz/compare/58b2baffb106994d52384adddee6d9f6c4302917..f98e573a280b4880d2f93fafc866d324b9ec36b1)
+
 <details>
 <summary id='change-log'>Change Log</summary>
-
-🔬 [Compare](https://github.com/cr-abednorz/cr-abednorz/compare/58b2baffb106994d52384adddee6d9f6c4302917..f98e573a280b4880d2f93fafc866d324b9ec36b1)
 
 (0fc8909de78ac0634a3042e57ad60911f61770f4) [2025-10-08T22:38:30+0100] feat: ⭐ add introductory line to README
 
